@@ -1,0 +1,247 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Mahmood Athil",
+    "label": "Senior Technical Support Engineer",
+    "location": {
+      "city": "Chennai",
+      "countryCode": "IN"
+    },
+    "image": "",
+    "email": "mahmoodathil24@outlook.com",
+    "phone": "+91 63790 70771",
+    "url": "https://github.com/madwayl",
+    "summary": "Experienced Senior Technical Support Engineer in IT Corporate Environment. Enthusiastic to work with modern tools for Automation and Productivity, and related technologies. Currently skilled & challenged in Web Development, Infra Technologies and Azure Cloud. Excited to handle opportunities with relevance to Cloud Technologies & DevOps practices.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "mahmood-athil",
+        "url": "https://www.linkedin.com/in/mahmood-athil/"
+      },
+      {
+        "network": "GitHub",
+        "username": "madwayl",
+        "url": "https://github.com/madwayl"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Genpact",
+      "location": "Hyderabad, India",
+      "description": "Global Service Firm",
+      "position": "Technical Support (Develpoer Support Engineer)",
+      "startDate": "2023-04-05",
+      "summary": "Supported Products (Meta's APIs & SDKs) and its Use-Cases. Dogfooding New Featured Releases. And Communicate Feature Requests - Maintaining Weekly Metrics",
+      "highlights": [
+        "Assisted on Troubleshooting Product Issues with L2s/L3s/SWEs & with Account/Partner Managers (Full Time Meta Employees) on updating bug resolution for High Tiered Partners",
+        "Create Custom Test Environments, around SDKs and APIs to Debug Common Bugs Reported via Tickets",
+        "Document Use-Cases, Bugs, Upcoming Features as Wiki or a Knowledge Base Article",
+        "Promoted as Subject Matter Expert (on a span of 3 months)",
+        "Improved Customer Satisfaction for L1 Supported Tickets thorugh a Green-Belt Project - Improved Response Rate from 5% to 13% and Overall Customer Satisfaction from 28% to 62%",
+        "Dogfood (Testing & Debug) Upcoming/Beta Application Features Requests",
+        "Work Closely with Meta Partner Managers on attempting to resolve Partner Queries",
+        "Use Microsoft Excel/Google Sheets Formulas for Automating Data Capture (via Dashboards) and Root Cause Analysis for Client Review Meetings",
+        "SQL Queries to export custom data from Log Tables (Scuba)",
+        "Utilized Internal Tools - Bots, Project Management Tool - For Daily Business-As-Usual Tasks",
+        "Handle Client/Partner Escalations for Missed Resolution, though managing Same-Tier Resolution at around 82%"
+      ]
+    },
+      {
+      "name": "Hilane Digital",
+      "location": "Chennai, India",
+      "description": "Small-Scale Startup",
+      "position": "Technical Support Engineer",
+      "startDate": "2022-06-20",
+      "endDate": "2023-02-13",
+      "summary": "Maintained Operations of Significance for the ",
+      "highlights": [
+        "Create UI Components in Pure JavaScript + React / Scripts based off JavaScript for Business Use Cases",
+        "Creating Scripts (PowerShell) to automate Manual System Tasks",
+        "Analyzing & Maintain Records of new Hardware & Software Assets",
+        "Maintain Azure AD and Monthly Subscription / Payment Reports"
+      ]
+    },
+    {
+      "name": "Tech Mahindra",
+      "location": "Electronic City, Bengaluru, India",
+      "description": "Tech Mahindra - ITIL Operations for Telecom Industry",
+      "position": "Application Support Engineer",
+      "startDate": "2019-11-25",
+      "endDate": "2022-05-20",
+      "summary": "Managed IT Support Operations for Project with Digi Telecommunication (Pvt. Ltd.), Malaysia",
+      "highlights": [
+        "Implemented & Maintained ITIL solutions - Resolving Incidents & Service Requests (Maintaining 90% SLAs on First Call without escalations)",
+        "Analyse Requirements and Business Use-cases of Application Integration with Organization's Regular Workflow",
+        "Use SQL Queries for Creating Custom Reports via Izenda Reporting Tool",
+        "Test & Troubleshoot APIs for SMS Management (Twilio) & Chatbot Facilities",  
+        "Maintain Application Servers (Windows Server 2012 & Ubunutu Server LTS) – Check on recurring errors through application log and ensure 24/7 service & Connection Availability throughout Digi Infrastructure.",
+        "Build & Define process with Infra Teams for further server/network device integration, through monitoring account creation WMI, SSH (for Server) & SNMP Based Monitoring via MIB OIDs (for the Network Devices)",
+        "Create BASH / PowerShell Scripts to troubleshoot monitoring issues"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Bhumi",
+      "position": "Chapter Coordinator",
+      "url": "https://bhumi.ngo/",
+      "startDate": "2018-01-10",
+      "endDate": "2019-11-20",
+      "summary": "Top NGO - promotes whole-school transformations and gives educational opportunities to students from disadvantaged communities.",
+      "highlights": [
+        "Managed Volunteer Teams and enhanced volunteering experience - organizing Events & Programs",
+        "Teaching Underprivileged Children from Schools & Orphanages about Computer Science and Information Technology",
+        "Organizing Events to Embrace Learning (Math & Computer Science) among Communities"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Dhaanish Ahmed College of Engineering",
+      "url": "",
+      "area": "Engineering (Petroleum)",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2015-08-14",
+      "endDate": "2019-05-10",
+      "score": "7.87"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Ace - Silver Award",
+      "date": "2023-12-20",
+      "awarder": "Genpact",
+      "summary": "On Handling Major Organizational Events. Coordinating Programs & Managing Volunteering Projects as a Coordinator"
+    },
+    {
+      "title": "Bhumi's Changemaker Award",
+      "date": "2019-09-15",
+      "awarder": "Bhumi - NGO",
+      "summary": "On Handling Major Organizational Events. Coordinating Programs & Managing Volunteering Projects as a Coordinator"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Beginner",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Scripting",
+      "level": "Intermediate",
+      "keywords": [
+        "Bash",
+        "Powershell",
+        "Python"
+      ]
+    },
+    {
+      "name": "Server Administration",
+      "level": "Beginner",
+      "keywords": [
+        "Windows Server 2019",
+        "Ubunutu Server",
+        "RHEL"
+      ]
+    },
+    {
+      "name": "IT Insfrastructure Library",
+      "level": "Beginner",
+      "keywords": [
+        "Service Management",
+        "Asset Management",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "API Testing",
+      "level": "Beginner",
+      "keywords": [
+        "Postman",
+        "Facebook's Graph API Explorer"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Tamil",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Embedded Technologies",
+      "keywords": [
+        "Internet of Things",
+        "3D-Printing"
+      ]
+    },
+    {
+      "name": "Android & Web Development",
+      "keywords": [
+        "Kotlin",
+        "Android Open Source Project",
+        "React",
+        "Flutter"
+      ]
+    },
+    {
+      "name": "Cloud Operations",
+      "keywords": [
+        "AWS",
+        "Azure"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Customer Satifaction Improvement - Green-Belt Project",
+      "description": "Green-Belt Project on basis of Genpact's 4D Lean Phases (Define, Diagnose, Design, Deploy)",
+      "highlights": [
+        "Response Rate​ for CSATs (Improved rate from 6% to 13%)",
+        "Improved CSAT Score (Measured Score from 25% to 62%)",
+        "Reduce possibility of Invalid Customer Satisfaction (Out-of-Scope)",
+        "Improve Effective Communication & Triaging for all Agents"
+      ],
+      "keywords": [
+        "Lean & Six-Sigma Processs"
+      ],
+      "startDate": "2023-07-15",
+      "endDate": "2020-10-10",
+      "type": "Process Improvement"
+    },
+    {
+      "name": "Azure Cloud Operations",
+      "description": "Part of Tech Mahindra's Cloud Finishing School - Cloud Infra for a Business Use-Case",
+      "highlights": [
+        "Business Use Case to Build & Scale an Exemplary Business for their Online Store & Sales Analysis: on Cloud for their Sales Management:  Implementing Azure IaaS + Azure Active Directory (via PowerShell, BASH, Ansible, Terraform)"
+      ],
+      "keywords": [
+        "Azure Administration",
+        "Bash",
+        "Powershell",
+        "Ansible",
+        "Terraform"
+      ],
+      "startDate": "2020-11-20",
+      "endDate": "2020-12-03",
+      "url": "https://github.com/madwayl/cfs-proj",
+      "type": "Cloud Infrastructure"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2023-12-24T15:53:00",
+    "theme": "jsonresume-theme-mantra"
+  }
+}
