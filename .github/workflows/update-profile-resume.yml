@@ -11,7 +11,5 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: Render HTML
-        run: "npx resumed render"
-      - name: Create PDF
-        run: "npm run run-pdf"
+      - run: "npx resumed render"
+      - run: "npm run run-pdf"
