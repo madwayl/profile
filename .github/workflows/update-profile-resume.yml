@@ -1,0 +1,25 @@
+name: update-profile-resume
+run-name: ${{ github.actor }} is updating Resume
+on: [push]
+jobs:
+  check-bats-version:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install -g bats
+      - run: bats -v
+  create-pdf:
+    runs-on: ubunut-latest
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Render HTML
+        run: "npx resumed render"
+      - name: Create PDF
+        run: "npm run run-pdf"
