@@ -21,7 +21,7 @@ jobs:
         with:
           persist-credentials: false
       - name: Build Resume and Deploy on GitHub Pages
-        uses: rajivnayanc/resume-creator-action@v4
+        uses: rajivnayanc/resume-creator-action@v1.1.0
         with:
           FileName: resume.json
         env:
