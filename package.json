@@ -1,13 +1,15 @@
 {
   "type": "module",
   "dependencies": {
+    "jsonresume-theme-class": "^0.1.2",
     "jsonresume-theme-elegant-mrseanryan": "^1.10.11",
+    "jsonresume-theme-even": "^0.17.0",
     "jsonresume-theme-latte": "^1.0.2",
     "jsonresume-theme-mantra": "^0.3.1",
     "jsonresume-theme-minyma": "^0.0.5",
-    "resumed": "^3.0.1",
-    "jsonresume-theme-even": "^0.17.0",
-    "puppeteer": "^13.0.0"
+    "jsonresume-theme-onepage-plus": "^1.0.1",
+    "puppeteer": "^13.0.0",
+    "resumed": "^3.0.1"
   },
   "scripts": {
     "init": "npx resumed init",

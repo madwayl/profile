@@ -1,6 +1,11 @@
 name: update-profile-resume
+
 run-name: ${{ github.actor }} is updating Resume
 on: [push]
+
+permissions:
+  contents: write
+
 jobs:
   create-pdf:
     runs-on: ubunut-latest
@@ -11,5 +16,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - run: "npx resumed render"
-      - run: "npm run run-pdf"
+      - run: npm i
+      - name: Create PDF
+        run: |
+          node index.js
