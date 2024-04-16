@@ -132,6 +132,14 @@
       ]
     },
     {
+      "name": "Version Control Systems",
+      "level": "Beginner",
+      "keywords": [
+        "Git",
+        "Github"
+      ]
+    },
+    {
       "name": "Scripting",
       "level": "Intermediate",
       "keywords": [
@@ -213,7 +221,7 @@
         "Improve Effective Communication & Triaging for all Agents"
       ],
       "keywords": [
-        "Lean & Six-Sigma Processs"
+        "Lean & Six-Sigma"
       ],
       "startDate": "2023-07-15",
       "endDate": "2020-10-10",
