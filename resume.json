@@ -31,14 +31,12 @@
       "location": "Hyderabad, India",
       "position": "Developer Support Engineer",
       "startDate": "2023-04-05",
-      "summary": "Supporting Developer Products (Primarily Meta's APIs & SDKs) - Tracking Bugs and Features Requests",
+      "summary": "Supporting Developer Products (Primarily Facebook's APIs & SDKs) - Tracking Bugs and Features Requests",
       "highlights": [
         "Product Troubleshooting with L2s/L3s/SWEs & Account/Partner Managers on resolving bugs (while analyzing major impact) or solve queries for a Global Customer Base in a 24x7 support",
         "Promoted as Subject Matter Expert (on a span of 3 months) - supporting a team of 20 agents",
-        "Create Custom Test Environments, for all Products for Debugging & Recording Product Edge cases",
         "Document Missed Product Use-Cases, Workaround, By-Design Resolutions as Product Wiki or a Knowledge Base Article for peer-review",
         "Dogfood (Test & Debug) Upcoming/Beta Product Features Requests",
-        "Share Common Product Features Requests/Bugs as Community Workplace Posts to Product Team",
         "Improved Customer Satisfaction for Level 1 Supported Bugs with process enhancements through mutually agreed Green-Belt Project - Improved Response Rate from 5% to 13% and Overall Customer Satisfaction from 28% to 62%",
         "Write SQL Queries to export custom data from Various Log Tables for Reporting (Scuba)",
         "Use Microsoft Excel/Google Sheets Formulas for Automating Data Capture (creating Dashboards) and Root Cause Analysis for Client Review Meetings",
@@ -49,11 +47,11 @@
       {
       "name": "Hilane Digital",
       "location": "Chennai, India",
-      "description": "Small Network Security-Focused Startup",
+      "description": "Small-Scale Security-Focused Startup",
       "position": "Technical Support Engineer",
       "startDate": "2022-06-20",
       "endDate": "2023-02-13",
-      "summary": "Maintained & Supported Operations of Significance for the Company",
+      "summary": "Maintained & Supported Operations of Significance",
       "highlights": [
         "Create UI Components in Pure JavaScript + React / Scripts based off JavaScript for Application Use Cases",
         "Maintain Azure AD and Monthly Subscription"
@@ -66,12 +64,12 @@
       "position": "Application Support Engineer",
       "startDate": "2019-11-25",
       "endDate": "2022-05-20",
-      "summary": "Managed IT Support Operations for Project with Digi Telecommunication (Pvt. Ltd.), Malaysia",
+      "summary": "Managed IT Support Operations with Digi Telecommunication (Pvt. Ltd.), Malaysia",
       "highlights": [
         "Implement & Maintain ITIL solutions - Resolving Incidents & Service Requests (Maintaining 90% SLAs on First Call without escalations)",
-        "Use SQL Queries for Creating Custom Reports via Izenda Reporting Tool",
+        "Use SQL Queries to create Custom Reports via Izenda Reporting Tool",
         "Enhancements to Internal IT Operations through SMS Alerts & Custom Metric Monitoring (via Twilio APIs)",
-        "Maintain Application Servers (Windows Server 2012 & Ubuntu Server LTS) – Monitoring Significant Errors through application log, Ensure 24/7 service & Set-Up War Rooms for Critical Failures",
+        "Maintain Application Servers (Windows Server 2012 & Ubuntu Server LTS) – Monitoring Significant Errors through application log",
         "Build & Define process with Infra Teams for further server/network device mointoring integration, through service account creation using network protocols - WMI, SSH (for Server) & SNMP Based Monitoring via MIB OIDs (for the Network Devices)",
         "Create BASH / PowerShell Scripts to troubleshoot operations monitoring issues of Application Servers"
       ]
@@ -93,12 +91,6 @@
       "date": "2023-12-20",
       "awarder": "Genpact",
       "summary": "A Yearly Award for Recognition of efforts made for the team and the project, highlighting the success of a Lean & Six Sigma Green Belt Project."
-    },
-    {
-      "title": "Bhumi's Changemaker Award",
-      "date": "2019-09-15",
-      "awarder": "Bhumi - NGO",
-      "summary": "On Handling Major Organizational Events. Coordinating Programs & Managing Volunteering Projects as a Coordinator"
     }
   ],
   "skills": [
@@ -158,7 +150,7 @@
   "languages": [
     {
       "language": "Tamil",
-      "fluency": "Native speaker"
+      "fluency": "Native"
     },
     {
       "language": "English",
