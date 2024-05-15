@@ -11,7 +11,7 @@
     "email": "mahmoodathil24@outlook.com",
     "phone": "+91 63790 70771",
     "url": "https://github.com/madwayl",
-    "summary": "Highly skilled IT professional with a robust technical background and customer-oriented attitude. Proficient in troubleshooting, software support, and implementing complex technical solutions. Detail-oriented, organized, and adept at managing multiple projects simultaneously with a high degree of accuracy. Willingness to take on added responsibilities to meet team goals. Committed to continuous learning and staying at the forefront of technology.",
+    "summary": "Senior Technical Support Engineer, scaling support for various IT Products - Enthusiastic to build/support Automation at all levels. Skilled & Challenged in Technologies related to Web Development, Server & Network Infra Tech and Cloud. Highly Embrace opportunities related to Cloud Technologies & DevOps practices.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -33,8 +33,8 @@
       "startDate": "2023-04-05",
       "summary": "Supporting Developer Products (Primarily Meta's APIs & SDKs) - Tracking Bugs and Features Requests",
       "highlights": [
-        "Product Troubleshooting with L2s/L3s/SWEs & Account/Partner Managers on resolving bugs (while analyzing major impact) or solve queries for a Global Customer Base in a 24x7 support",
-        "Promoted as Subject Matter Expert (on a span of 3 months) - supporting a team of 20 agents",
+        "Assisted on Product Troubleshooting with L2s/L3s/SWEs & Account/Partner Managers on resolving bugs (while analyzing major impact) or solve queries for a Global Customer Base",
+        "Promoted as Subject Matter Expert (on a span of 3 months)",
         "Create Custom Test Environments, for all Products for Debugging & Recording Product Edge cases",
         "Document Missed Product Use-Cases, Workaround, By-Design Resolutions as Product Wiki or a Knowledge Base Article for peer-review",
         "Dogfood (Test & Debug) Upcoming/Beta Product Features Requests",
@@ -43,7 +43,7 @@
         "Write SQL Queries to export custom data from Various Log Tables for Reporting (Scuba)",
         "Use Microsoft Excel/Google Sheets Formulas for Automating Data Capture (creating Dashboards) and Root Cause Analysis for Client Review Meetings",
         "Utilized Internal Tools - Bots, Project Management Tool - Build Automation workflows for Daily Business-As-Usual Tasks",
-        "Handle Client/Partner Escalations for Missed Resolution, though managing Same-Tier Resolution at around 88%"
+        "Handle Client/Partner Escalations for Missed Resolution, though managing Same-Tier Resolution at around 82%"
       ]
     },
       {
@@ -56,6 +56,7 @@
       "summary": "Maintained & Supported Operations of Significance for the Company",
       "highlights": [
         "Create UI Components in Pure JavaScript + React / Scripts based off JavaScript for Application Use Cases",
+        "Analyze & Maintain Records of new Hardware & Software Assets",
         "Maintain Azure AD and Monthly Subscription"
       ]
     },
@@ -72,14 +73,29 @@
         "Use SQL Queries for Creating Custom Reports via Izenda Reporting Tool",
         "Enhancements to Internal IT Operations through SMS Alerts & Custom Metric Monitoring (via Twilio APIs)",
         "Maintain Application Servers (Windows Server 2012 & Ubuntu Server LTS) – Monitoring Significant Errors through application log, Ensure 24/7 service & Set-Up War Rooms for Critical Failures",
-        "Build & Define process with Infra Teams for further server/network device mointoring integration, through service account creation using network protocols - WMI, SSH (for Server) & SNMP Based Monitoring via MIB OIDs (for the Network Devices)",
-        "Create BASH / PowerShell Scripts to troubleshoot operations monitoring issues of Application Servers"
+        "Build & Define process with Infra Teams for further server/network device integration, through monitoring account creation WMI, SSH (for Server) & SNMP Based Monitoring via MIB OIDs (for the Network Devices)",
+        "Create BASH / PowerShell Scripts to troubleshoot monitoring issues of Application Servers"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Bhumi",
+      "position": "Project Coordinator",
+      "url": "https://bhumi.ngo/",
+      "startDate": "2018-01-10",
+      "endDate": "2019-11-20",
+      "summary": "Top NGO - promotes whole-school transformations and gives educational opportunities to students from disadvantaged communities.",
+      "highlights": [
+        "Managed Volunteers and Improve Volunteering Experience through Fun & Pedagogical Events",
+        "Teaching Underprivileged Children from Schools & Orphanages about Computer Science and Information Technology",
+        "Organizing Events to Embrace Learning (Math & Computer Science) among Communities"
       ]
     }
   ],
   "education": [
     {
-      "institution": "Dhaanish Ahmed College of Engineering (Anna University Affiliated)",
+      "institution": "Dhaanish Ahmed College of Engineering",
       "area": "Engineering",
       "studyType": "Bachelor of Technology",
       "startDate": "2015-08-14",
@@ -129,12 +145,11 @@
       ]
     },
     {
-      "name": "System Administration",
+      "name": "Server Administration",
       "level": "Beginner",
       "keywords": [
         "Windows Server 2019",
-        "Ubunutu Server",
-        "Red Hat Linux"
+        "Ubunutu Server"
       ]
     },
     {
@@ -163,6 +178,31 @@
     {
       "language": "English",
       "fluency": "Professional"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Embedded Technologies",
+      "keywords": [
+        "Internet of Things",
+        "3D-Printing"
+      ]
+    },
+    {
+      "name": "Android & Web Development",
+      "keywords": [
+        "Kotlin",
+        "Android Open Source Project",
+        "React",
+        "Flutter"
+      ]
+    },
+    {
+      "name": "Cloud Operations",
+      "keywords": [
+        "AWS",
+        "Azure"
+      ]
     }
   ],
   "projects": [
