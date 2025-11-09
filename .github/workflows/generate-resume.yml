@@ -1,0 +1,55 @@
+name: Build Resume PDFs
+
+run-name: ${{ github.actor }} - bro's updating Resume
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+concurrency:
+  group: "pdfs"
+  cancel-in-progress: true
+
+jobs:
+  render-pdf:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Render all resumes
+        id: resume-generator
+        uses: ./.github/actions/generate-resumes
+        with:
+          folder: resumes
+
+      - name: Upload all Artifacts
+        id: upload
+        uses: actions/upload-artifact@v4
+        with:
+          name: resumes
+          path: output/*.pdf
+
+  release:
+    needs: render-pdf
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Download all Artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts/
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: artifacts/**/*
+        env:
+          GITHUB_TOKEN: ${{ secrets.GLOOMY_SOUL }}
