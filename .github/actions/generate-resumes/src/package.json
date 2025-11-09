@@ -1,0 +1,29 @@
+{
+  "name": "generate-resumes",
+  "description": "A GitHub Action for rendering JSON resumes to HTML and PDF using Resumed and Puppeteer",
+  "type": "module",
+  "main": "index.js",
+  "private": true,
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "@actions/core": "^1.11.1",
+    "puppeteer": "^24.29.1",
+    "resumed": "^6.1.0"
+  },
+  "devDependencies": {
+    "jsonresume-theme-class": "^0.1.2",
+    "jsonresume-theme-elegant-mrseanryan": "^1.10.11",
+    "jsonresume-theme-even": "^0.26.1",
+    "jsonresume-theme-latte": "^1.0.3",
+    "jsonresume-theme-mantra": "^0.3.1",
+    "jsonresume-theme-minyma": "^0.0.5",
+    "jsonresume-theme-onepage-plus": "^1.0.1"
+  },
+  "scripts": {
+    "render": "resumed render",
+    "validate": "resumed validate",
+    "create-pdf": "node index.js"
+  }
+}

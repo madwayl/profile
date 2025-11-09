@@ -1,0 +1,18 @@
+name: 'Generate Resume PDFs'
+author: 'madwayl'
+description: 'Render HTML and PDF resumes from JSON files'
+inputs:
+  folder:
+    description: 'Folder containing resume JSON files'
+    required: true
+    default: 'resumes'
+  theme:
+    description: 'NPM package name for the theme'
+    required: true
+    default: 'jsonresume-theme-onepage-plus'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - ${{ inputs.folder }}
+    - ${{ inputs.theme }}

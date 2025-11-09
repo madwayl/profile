@@ -1,0 +1,203 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Mahmood Athil",
+    "label": "Senior Technical Support Engineer",
+    "location": {
+      "city": "Chennai",
+      "countryCode": "IN"
+    },
+    "image": "",
+    "email": "mahmoodathil24@outlook.com",
+    "phone": "+91 63790 70771",
+    "url": "https://github.com/madwayl",
+    "summary": "Highly skilled IT professional with a robust technical background and customer-oriented attitude. Proficient in troubleshooting, software support, and implementing complex technical solutions. Detail-oriented, organized, and adept at managing multiple projects simultaneously with a high degree of accuracy. Willingness to take on added responsibilities to meet team goals. Committed to continuous learning and staying at the forefront of technology.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "mahmood-athil",
+        "url": "https://www.linkedin.com/in/mahmood-athil/"
+      },
+      {
+        "network": "GitHub",
+        "username": "madwayl",
+        "url": "https://github.com/madwayl"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Genpact",
+      "location": "Hyderabad, India",
+      "position": "Developer Support Engineer",
+      "startDate": "2023-04-05",
+      "summary": "Supporting Developer Products (Primarily Facebook's APIs & SDKs) - Solving Queries, Tracking Bugs and Features Requests",
+      "highlights": [
+        "Supporting Developer Products for a Global Customer Base in a 24x7 support environment with L2/L3 Support Engineers and Software Engineers while with close-touch with Account/Partner Managers on resolving bugs (and simultaneously analyzing major impact)",
+        "Product rangeing from Ads, E-Commerce, Core Social Media Products, Messenger Products, Insights Products to Network Crawlers",
+        "Promoted as Subject Matter Expert (on a span of 3 months) - supporting a team of 20 agents`",
+        "Document Missed Product Edge-Cases, Workaround, By-Design Resolutions as Product Wiki or a Knowledge Base Article for later peer-review",
+        "Dogfood (Test & Debug) Upcoming/Beta Products & Features",
+        "Improved Customer Satisfaction for Level 1 Supported Bugs with process enhancements through mutually agreed Green-Belt Project - Improved Response Rate from 5% to 13% and Overall Customer Satisfaction from 28% to 62%",
+        "Write SQL Queries to export custom data from Various Log Tables for Client Reporting",
+        "Use Microsoft Excel/Google Sheets Formulas for Automating Data Capture (via Dashboards)",
+        "Build Automation workflows for Daily Business-As-Usual Tasks - Utilizing Internal Tools - Bots, Project Management Tool",
+        "Handle Client/Partner Escalations for Missed Resolution, though managing Same-Tier Resolution at around 88%"
+      ]
+    },
+      {
+      "name": "Hilane Digital",
+      "location": "Chennai, India",
+      "description": "Small-Scale Security-Focused Startup",
+      "position": "Technical Support Engineer",
+      "startDate": "2022-06-20",
+      "endDate": "2023-02-13",
+      "summary": "Maintained & Supported Operations of Significance",
+      "highlights": [
+        "Create UI Components in Pure JavaScript + React / Scripts based off JavaScript for Application Use Cases",
+        "Maintain Azure AD and Monthly Subscription"
+      ]
+    },
+    {
+      "name": "Tech Mahindra",
+      "location": "Electronic City, Bengaluru, India",
+      "description": "Tech Mahindra - ITIL Operations for Telecom Industry",
+      "position": "Application Support Engineer",
+      "startDate": "2019-11-25",
+      "endDate": "2022-05-20",
+      "summary": "Managed IT Support Operations with Digi Telecommunication (Pvt. Ltd.), Malaysia",
+      "highlights": [
+        "Implement & Maintain ITIL solutions - Resolving Incidents & Service Requests (Maintaining 90% SLAs on First Call without escalations)",
+        "Use SQL Queries to create Custom Reports via Izenda Reporting Tool",
+        "Enhancements to Internal IT Operations through SMS Alerts & Custom Metric Monitoring (via Twilio APIs)",
+        "Maintain Application Servers (Windows Server 2012 & Ubuntu Server LTS) – Monitoring Significant Errors through application log",
+        "Build & Define process with Infra Teams for further server/network device mointoring integration, through service account creation using network protocols - WMI, SSH (for Server) & SNMP Based Monitoring via MIB OIDs (for the Network Devices)",
+        "Create BASH / PowerShell Scripts to troubleshoot operations monitoring issues of Application Servers"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Dhaanish Ahmed College of Engineering (Anna University Affiliated)",
+      "area": "Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2015-08-14",
+      "endDate": "2019-05-10",
+      "score": "7.87"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Ace - Silver Award",
+      "date": "2023-12-20",
+      "awarder": "Genpact",
+      "summary": "A Yearly Award for Recognition of efforts made for the team and the project, highlighting the success of a Lean & Six Sigma Green Belt Project."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Beginner",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Version Control Systems",
+      "level": "Beginner",
+      "keywords": [
+        "Git",
+        "Github"
+      ]
+    },
+    {
+      "name": "Scripting",
+      "level": "Intermediate",
+      "keywords": [
+        "Bash",
+        "Powershell",
+        "Python"
+      ]
+    },
+    {
+      "name": "System Administration",
+      "level": "Beginner",
+      "keywords": [
+        "Windows Server 2019",
+        "Ubunutu Server",
+        "Red Hat Linux"
+      ]
+    },
+    {
+      "name": "IT Infrastructure Library",
+      "level": "Beginner",
+      "keywords": [
+        "Service Management",
+        "Asset Management",
+        "Operations Management"
+      ]
+    },
+    {
+      "name": "API Testing",
+      "level": "Beginner",
+      "keywords": [
+        "Postman",
+        "Facebook's Graph API Explorer"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Tamil",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Customer Satisfaction Improvement - Green-Belt Project",
+      "description": "Green-Belt Project based off Genpact's 4D Lean Phase (Define, Diagnose, Design, Deploy)",
+      "highlights": [
+        "Increased Response Rate​ for CSATs (from 6% to 13%)",
+        "Improved CSAT Score (Measured Score from 25% to 62%)",
+        "Eliminate Low Customer Satisfaction and ensure Feedback routing to the right team (typical Out-of-Scopes for Level 1 Support)",
+        "Improve Effective Communication & Triaging for all Agents"
+      ],
+      "keywords": [
+        "Lean & Six-Sigma"
+      ],
+      "startDate": "2023-07-15",
+      "endDate": "2020-10-10",
+      "type": "Process Improvement"
+    },
+    {
+      "name": "Azure Cloud Operations",
+      "description": "Part of Tech Mahindra's Cloud Finishing School - Cloud Infra for a Business Use-Case",
+      "highlights": [
+        "Business Use Case to Build & Scale an Exemplary Business for their Online Store & Sales Analysis: on Cloud for their Sales Management:  Implementing Azure IaaS + Azure Active Directory (via PowerShell, BASH, Ansible, Terraform)"
+      ],
+      "keywords": [
+        "Azure Administration",
+        "Bash",
+        "Powershell",
+        "Ansible",
+        "Terraform"
+      ],
+      "startDate": "2020-11-20",
+      "endDate": "2020-12-03",
+      "url": "https://github.com/madwayl/cfs-proj",
+      "type": "Cloud Infrastructure"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2023-12-24T15:53:00",
+    "theme": "jsonresume-theme-mantra"
+  }
+}
