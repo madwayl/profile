@@ -27,15 +27,31 @@
   },
   "work": [
     {
+      "name": "Wingify - VWO",
+      "location": "Remote",
+      "position": "Technical Support Engineer",
+      "startDate": "2024-09-15",
+      "endDate": "2025-03-10",
+      "summary": "Supporting In-Company and Renowned Web Marketing Products",
+      "highlights": [
+        "Supporting Customers in a 24x7 support environment with a maximum of 1-Hour SLAs",
+        "Debugging Customer's Website-Setup using Chrome Developer Tools - sharing in-depth analysis as part of ticket resolution",
+        "Share Custom JS scripts for Customer's specific Business Requirements",
+        "Create and Update Documentation for product changes and relay possible customer issues in-team, while document per-customer specific tech setup",
+        "Deal and Debug Product Integrations with other Digital-Marketing Tools such as Google Analytics, Google Tag Manager, Shopify Plugins, HubSpot etc.,"
+      ]
+    },
+    {
       "name": "Genpact",
       "location": "Hyderabad, India",
       "position": "Developer Support Engineer",
       "startDate": "2023-04-05",
+      "endDate": "2024-09-15",
       "summary": "Supporting Developer Products (Primarily Facebook's APIs & SDKs) - Solving Queries, Tracking Bugs and Features Requests",
       "highlights": [
         "Supporting Developer Products for a Global Customer Base in a 24x7 support environment with L2/L3 Support Engineers and Software Engineers while with close-touch with Account/Partner Managers on resolving bugs (and simultaneously analyzing major impact)",
         "Product rangeing from Ads, E-Commerce, Core Social Media Products, Messenger Products, Insights Products to Network Crawlers",
-        "Promoted as Subject Matter Expert (on a span of 3 months) - supporting a team of 20 agents`",
+        "Promoted as Subject Matter Expert (on a span of 3 months) - supporting a team of 20+ agents`",
         "Document Missed Product Edge-Cases, Workaround, By-Design Resolutions as Product Wiki or a Knowledge Base Article for later peer-review",
         "Dogfood (Test & Debug) Upcoming/Beta Products & Features",
         "Improved Customer Satisfaction for Level 1 Supported Bugs with process enhancements through mutually agreed Green-Belt Project - Improved Response Rate from 5% to 13% and Overall Customer Satisfaction from 28% to 62%",
@@ -45,7 +61,7 @@
         "Handle Client/Partner Escalations for Missed Resolution, though managing Same-Tier Resolution at around 88%"
       ]
     },
-      {
+    {
       "name": "Hilane Digital",
       "location": "Chennai, India",
       "description": "Small-Scale Security-Focused Startup",
@@ -68,8 +84,6 @@
       "summary": "Managed IT Support Operations with Digi Telecommunication (Pvt. Ltd.), Malaysia",
       "highlights": [
         "Implement & Maintain ITIL solutions - Resolving Incidents & Service Requests (Maintaining 90% SLAs on First Call without escalations)",
-        "Use SQL Queries to create Custom Reports via Izenda Reporting Tool",
-        "Enhancements to Internal IT Operations through SMS Alerts & Custom Metric Monitoring (via Twilio APIs)",
         "Maintain Application Servers (Windows Server 2012 & Ubuntu Server LTS) – Monitoring Significant Errors through application log",
         "Build & Define process with Infra Teams for further server/network device mointoring integration, through service account creation using network protocols - WMI, SSH (for Server) & SNMP Based Monitoring via MIB OIDs (for the Network Devices)",
         "Create BASH / PowerShell Scripts to troubleshoot operations monitoring issues of Application Servers"
@@ -120,32 +134,6 @@
         "Powershell",
         "Python"
       ]
-    },
-    {
-      "name": "System Administration",
-      "level": "Beginner",
-      "keywords": [
-        "Windows Server 2019",
-        "Ubunutu Server",
-        "Red Hat Linux"
-      ]
-    },
-    {
-      "name": "IT Infrastructure Library",
-      "level": "Beginner",
-      "keywords": [
-        "Service Management",
-        "Asset Management",
-        "Operations Management"
-      ]
-    },
-    {
-      "name": "API Testing",
-      "level": "Beginner",
-      "keywords": [
-        "Postman",
-        "Facebook's Graph API Explorer"
-      ]
     }
   ],
   "languages": [
@@ -163,8 +151,7 @@
       "name": "Customer Satisfaction Improvement - Green-Belt Project",
       "description": "Green-Belt Project based off Genpact's 4D Lean Phase (Define, Diagnose, Design, Deploy)",
       "highlights": [
-        "Increased Response Rate​ for CSATs (from 6% to 13%)",
-        "Improved CSAT Score (Measured Score from 25% to 62%)",
+        "Increased Response Rate​ for CSATs (from 6% to 13%) + Improved CSAT Score (Measured Score from 25% to 62%)",
         "Eliminate Low Customer Satisfaction and ensure Feedback routing to the right team (typical Out-of-Scopes for Level 1 Support)",
         "Improve Effective Communication & Triaging for all Agents"
       ],
@@ -172,7 +159,7 @@
         "Lean & Six-Sigma"
       ],
       "startDate": "2023-07-15",
-      "endDate": "2020-10-10",
+      "endDate": "2024-01-10",
       "type": "Process Improvement"
     },
     {
