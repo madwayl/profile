@@ -9,10 +9,7 @@ inputs:
   theme:
     description: 'NPM package name for the theme'
     required: true
-    default: 'jsonresume-theme-onepage-plus'
+    default: 'jsonresume-theme-onepage'
 runs:
   using: 'docker'
   image: 'Dockerfile'
-  args:
-    - ${{ inputs.folder }}
-    - ${{ inputs.theme }}

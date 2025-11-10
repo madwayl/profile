@@ -26,6 +26,7 @@ jobs:
         uses: ./.github/actions/generate-resumes
         with:
           folder: resumes
+          theme: jsonresume-theme-onepage-plus
 
       - name: Upload all Artifacts
         id: upload
