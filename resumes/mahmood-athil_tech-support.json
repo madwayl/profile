@@ -32,13 +32,11 @@
       "position": "Technical Support Engineer",
       "startDate": "2024-09-15",
       "endDate": "2025-03-10",
-      "summary": "Supporting In-Company and Renowned Web Marketing Products",
+      "summary": "Supporting In-Company and Renowned Web Marketing Products - in a 24x7 support environment. Debugging Customer's Website-Setup using Chrome Developer Tools - sharing in-depth analysis as part of ticket resolution. Deal and Debug Product Integrations with other Digital-Marketing Tools such as Google Analytics, Google Tag Manager, Shopify Plugins, HubSpot etc.,",
       "highlights": [
-        "Supporting Customers in a 24x7 support environment with a maximum of 1-Hour SLAs",
-        "Debugging Customer's Website-Setup using Chrome Developer Tools - sharing in-depth analysis as part of ticket resolution",
-        "Share Custom JS scripts for Customer's specific Business Requirements",
-        "Create and Update Documentation for product changes and relay possible customer issues in-team, while document per-customer specific tech setup",
-        "Deal and Debug Product Integrations with other Digital-Marketing Tools such as Google Analytics, Google Tag Manager, Shopify Plugins, HubSpot etc.,"
+        "Build Custom JS scripts for Customer's specific Business Requirements",
+        "Maintained max-SLA of 1-Hour on dealing with any/all Customer Issues",
+        "Create and Update Documentation for product changes, possible issues per-customer specific tech setup"
       ]
     },
     {
@@ -47,18 +45,14 @@
       "position": "Developer Support Engineer",
       "startDate": "2023-04-05",
       "endDate": "2024-09-15",
-      "summary": "Supporting Developer Products (Primarily Facebook's APIs & SDKs) - Solving Queries, Tracking Bugs and Features Requests",
+      "summary": "Supporting Developer Products (Primarily Facebook's APIs & SDKs) - Solving Queries, Tracking Bugs and Features Requests. in a 24x7 support environment with L2/L3 Support Engineers and Software Engineers while with close-touch with Account/Partner Managers on resolving bugs (and simultaneously analyzing major impact). Product rangeing from Ads, E-Commerce, Core Social Media Products, Messenger Products, Insights Products to Network Crawlers. Handle Client/Partner Escalations for Missed Resolution. Dogfood (Test & Debug) Upcoming/Beta Products & Features. Document Missed Product Edge-Cases, Workaround, By-Design Resolutions as Product Wiki or a Knowledge Base Article for later peer-review",
       "highlights": [
-        "Supporting Developer Products for a Global Customer Base in a 24x7 support environment with L2/L3 Support Engineers and Software Engineers while with close-touch with Account/Partner Managers on resolving bugs (and simultaneously analyzing major impact)",
-        "Product rangeing from Ads, E-Commerce, Core Social Media Products, Messenger Products, Insights Products to Network Crawlers",
         "Promoted as Subject Matter Expert (on a span of 3 months) - supporting a team of 20+ agents`",
-        "Document Missed Product Edge-Cases, Workaround, By-Design Resolutions as Product Wiki or a Knowledge Base Article for later peer-review",
-        "Dogfood (Test & Debug) Upcoming/Beta Products & Features",
-        "Improved Customer Satisfaction for Level 1 Supported Bugs with process enhancements through mutually agreed Green-Belt Project - Improved Response Rate from 5% to 13% and Overall Customer Satisfaction from 28% to 62%",
+        "Improved Response Rate from 5% to 13% and Overall CSAT from 28% to 62% - through mutually agreed Green-Belt Project",
         "Write SQL Queries to export custom data from Various Log Tables for Client Reporting",
-        "Use Microsoft Excel/Google Sheets Formulas for Automating Data Capture (via Dashboards)",
-        "Build Automation workflows for Daily Business-As-Usual Tasks - Utilizing Internal Tools - Bots, Project Management Tool",
-        "Handle Client/Partner Escalations for Missed Resolution, though managing Same-Tier Resolution at around 88%"
+        "Automating Data Capture (via Dashboards) using Google Sheets",
+        "Build Automation workflows - Utilizing Internal Tools - Bots, Project Management Tool",
+        "Managing Same-Tier Resolution at around 88%"
       ]
     },
     {
@@ -70,7 +64,7 @@
       "endDate": "2023-02-13",
       "summary": "Maintained & Supported Operations of Significance",
       "highlights": [
-        "Create UI Components in Pure JavaScript + React / Scripts based off JavaScript for Application Use Cases",
+        "Create UI Components in Pure JavaScript + React / Scripts for BAU Use-Cases",
         "Maintain Azure AD and Monthly Subscription"
       ]
     },
@@ -81,12 +75,10 @@
       "position": "Application Support Engineer",
       "startDate": "2019-11-25",
       "endDate": "2022-05-20",
-      "summary": "Managed IT Support Operations with Digi Telecommunication (Pvt. Ltd.), Malaysia",
+      "summary": "Managed IT Support Operations with Digi Telecommunication (Pvt. Ltd.), Malaysia. Implement & Maintain ITIL solutions - Resolving Incidents & Service Requests. Maintain Application Servers (Windows Server 2012 & Ubuntu Server LTS) – Monitoring Significant Errors through application log. Build & Define process with Infra Teams for further server/network device mointoring integration, through service account creation using network protocols - WMI, SSH (for Server) & SNMP Based Monitoring via MIB OIDs (for the Network Devices)",
       "highlights": [
-        "Implement & Maintain ITIL solutions - Resolving Incidents & Service Requests (Maintaining 90% SLAs on First Call without escalations)",
-        "Maintain Application Servers (Windows Server 2012 & Ubuntu Server LTS) – Monitoring Significant Errors through application log",
-        "Build & Define process with Infra Teams for further server/network device mointoring integration, through service account creation using network protocols - WMI, SSH (for Server) & SNMP Based Monitoring via MIB OIDs (for the Network Devices)",
-        "Create BASH / PowerShell Scripts to troubleshoot operations monitoring issues of Application Servers"
+        "Maintaining 90% SLAs on First Call without escalations",
+        "Create BASH / PowerShell Scripts to automate/troubleshoot operations & monitoring issues of Application Servers"
       ]
     }
   ],
